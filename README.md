@@ -21,7 +21,7 @@ Voici une suggestion pour le fichier `README.md` de votre projet SecuPlugin, inc
 3. [Structure du Projet](#structure-du-projet)
 4. [Fonctionnalités](#fonctionnalités)
 5. [Contribution](#contribution)
-6. [Licence](#licence)
+<!-- 6. [Licence](#licence) -->
 
 ---
 
@@ -129,6 +129,6 @@ Les contributions sont les bienvenues ! Si vous souhaitez participer :
 
 ---
 
-## Licence
+<!-- ## Licence
 
-Ce projet est sous licence **MIT**. Consultez le fichier [LICENSE](LICENSE) pour plus d'informations.
+Ce projet est sous licence **MIT**. Consultez le fichier [LICENSE](LICENSE) pour plus d'informations. -->
