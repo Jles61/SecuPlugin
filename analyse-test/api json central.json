@@ -1,0 +1,56 @@
+{
+  "Whois": {
+    "Plugin_nom_version": "",
+    "IP": "",
+    "Email_proprietaire": "",
+    "Pays_du_proprietaire": "",
+    "Date_de_creation": "",
+    "Date_d_expiration": "",
+    "Nom_hebergeur": ""
+  },
+  "Plugin_Wordpress": {
+    "Plugin_nom_version": "",
+    "Nom_de_l_auteur": "",
+    "Noms_de_contributeur": [],
+    "Date_de_creation": "",
+    "Note": 0,
+    "Nb_Notes": 0,
+    "Lien_de_telechargement": "",
+    "Domain": "",
+    "Lien_Git": "",
+    "Nb_telechargement": 0,
+    "Note_Thread": ""
+  },
+  "Plugin_Auteur_Contributeur": {
+    "Plugin_nom_version": "",
+    "Nom_de_l_auteur": "",
+    "Date_d_inscription": "",
+    "Pays": "",
+    "HomePage": "",
+    "Lien_Git": "",
+    "Listes_plugins": []
+  },
+  "SonarQube": {
+    "Plugin_nom_version": "",
+    "Nb_Vulns": 0,
+    "Nb_Vulns_critiques": 0,
+    "Rating_Securite": "",
+    "Nb_securite_Hotspot": 0,
+    "OWASP_DC": ""
+  },
+  "WP_Vulnerability": {
+    "Plugin_nom_version": "",
+    "CVE_dernières_annees": [],
+    "Score_CVSS_des_vulns": 0
+  },
+  "Hunter_io": {
+    "Plugin_nom_version": "",
+    "Domain": "",
+    "Listes_emails": []
+  },
+  "IHBP": {
+    "Plugin_nom_version": "",
+    "Listes_emails": [],
+    "Nb_leak": 0
+  }
+}

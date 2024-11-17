@@ -1,0 +1,56 @@
+{
+  "Whois": {
+    "Plugin_nom_version": "Elementor 3.15.3",
+    "IP": "192.0.66.2",
+    "Email_proprietaire": "admin@elementor.com",
+    "Pays_du_proprietaire": "Israel",
+    "Date_de_creation": "2016-06-02",
+    "Date_d_expiration": "2026-06-02",
+    "Nom_hebergeur": "Automattic Inc."
+  },
+  "Plugin_Wordpress": {
+    "Plugin_nom_version": "Elementor 3.15.3",
+    "Nom_de_l_auteur": "Elementor.com",
+    "Noms_de_contributeur": ["benwp", "arielk", "elishaleigh"],
+    "Date_de_creation": "2016-06-02",
+    "Note": 4.7,
+    "Nb_Notes": 6200,
+    "Lien_de_telechargement": "https://wordpress.org/plugins/elementor/",
+    "Domain": "elementor.com",
+    "Lien_Git": "https://github.com/elementor/elementor",
+    "Nb_telechargement": 5000000,
+    "Note_Thread": "High"
+  },
+  "Plugin_Auteur_Contributeur": {
+    "Plugin_nom_version": "Elementor 3.15.3",
+    "Nom_de_l_auteur": "Elementor.com",
+    "Date_d_inscription": "2016-06-02",
+    "Pays": "Israel",
+    "HomePage": "https://elementor.com",
+    "Lien_Git": "https://github.com/elementor/elementor",
+    "Listes_plugins": ["Elementor", "Elementor Pro"]
+  },
+  "SonarQube": {
+    "Plugin_nom_version": "Elementor 3.15.3",
+    "Nb_Vulns": 12,
+    "Nb_Vulns_critiques": 2,
+    "Rating_Securite": "B",
+    "Nb_securite_Hotspot": 3,
+    "OWASP_DC": "A3"
+  },
+  "WP_Vulnerability": {
+    "Plugin_nom_version": "Elementor 3.15.3",
+    "CVE_dernières_annees": ["CVE-2023-23456", "CVE-2022-67890"],
+    "Score_CVSS_des_vulns": 7.8
+  },
+  "Hunter_io": {
+    "Plugin_nom_version": "Elementor 3.15.3",
+    "Domain": "elementor.com",
+    "Listes_emails": ["contact@elementor.com", "support@elementor.com"]
+  },
+  "IHBP": {
+    "Plugin_nom_version": "Elementor 3.15.3",
+    "Listes_emails": ["security@elementor.com"],
+    "Nb_leak": 1
+  }
+}
